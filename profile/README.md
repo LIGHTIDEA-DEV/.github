@@ -31,7 +31,7 @@ This guide explains:
 ### 🛠️ Admins / Tech Leads / DevOps
 If you are joining as an admin, maintainer, or DevOps engineer, read the **Golden Repository Baseline Checklist**:
 
-🔗 https://github.com/LIGHTIDEA-DEV/.github/blob/main/docs/REPO-BASELINE-CHECKLIST.md
+🔗 https://github.com/LIGHTIDEA-DEV/.github/blob/main/docs/ADMINS-REPO-BASELINE-CHECKLIST.md
 
 This checklist defines:
 - Required repository settings
