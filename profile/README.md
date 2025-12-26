@@ -19,6 +19,7 @@ If you are joining as a developer, start with the **Developer Onboarding & Workf
 🔗 https://github.com/LIGHTIDEA-DEV/.github/blob/main/docs/DEVELOPER-ONBOARDING-WORKFLOW.md
 
 This guide explains:
+- How to authenticate to organization
 - How to clone repositories (HTTPS / SSH)
 - How branches work (`dev`, `feature/*`, `main`)
 - How to create branches and open Pull Requests
